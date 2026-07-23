@@ -8,6 +8,11 @@ Full Countries List at bottom of description.
 
 Patch Notes:
 
+[23-JUL-2026]
+-Added Quebec - As a request from user "banana_gaming_pro"
+-Added China - which was always intended to be in the pack, but i missed it. Thanks to users "Frk_Trunte" and "Jhonelle_Bean" for notifying me it was missing.
+-Removed Isreal - By request from users "FreePalestine4eva", "penisbaguette", "sjallarabla" & Others.
+
 [04-FEB-2023]
 -Added Nigeria, which was accidentally left out when creating the initial package.
 
@@ -94,6 +99,7 @@ Central African Republic
 Ceuta
 Chad
 Chile
+China
 Christmas Island
 Cocos Island
 Colombia
@@ -157,7 +163,6 @@ Iran
 Iraq
 Ireland
 Isle of Man
-Israel
 Italy
 Ivory Coast 
 
@@ -237,6 +242,7 @@ Portugal
 Principality of Sealand
 Puerto Rico
 Qatar
+Quebec
 Rapa Nui
 Republic of Macedonia
 Republic of the Congo
