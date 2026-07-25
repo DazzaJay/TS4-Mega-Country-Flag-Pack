@@ -9,20 +9,20 @@ Full Countries List at bottom of description.
 Patch Notes:
 
 [23-JUL-2026]
--Added Quebec - As a request from user "banana_gaming_pro"
--Added China - which was always intended to be in the pack, but i missed it. Thanks to users "Frk_Trunte" and "Jhonelle_Bean" for notifying me it was missing.
--Removed Isreal - By request from users "FreePalestine4eva", "penisbaguette", "sjallarabla" & Others.
+- Added Quebec - As a request from user "banana_gaming_pro"
+- Added China - which was always intended to be in the pack, but i missed it. Thanks to users "Frk_Trunte" and "Jhonelle_Bean" for notifying me it was missing.
+- Removed Isreal - By request from users "FreePalestine4eva", "penisbaguette", "sjallarabla" & Others.
 
 [04-FEB-2023]
--Added Nigeria, which was accidentally left out when creating the initial package.
+- Added Nigeria, which was accidentally left out when creating the initial package.
 
 [29-OCT-2022]
--New Zealand flag is no longer a smaller Australian flag with the letters "Jr" on it.
--United States of America flag corrected, no longer the "McDonalds" logo.
--Canadian flag corrected, no longer uses the wrong type of leaf.
--Romanian flag corrected. no longer using the flag of Chad.
--Japanese flag corrected. rotated red dot to correct orientation.
--French flag corrected, no longer only white, added red and blue parts.
+- New Zealand flag is no longer a smaller Australian flag with the letters "Jr" on it.
+- United States of America flag corrected, no longer the "McDonalds" logo.
+- Canadian flag corrected, no longer uses the wrong type of leaf.
+- Romanian flag corrected. no longer using the flag of Chad.
+- Japanese flag corrected. rotated red dot to correct orientation.
+- French flag corrected, no longer only white, added red and blue parts.
 
 --------------------------------
 
